@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70644641"
+     inkscape:cx="396.34995"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1914"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="232.14783"
+       y="397.76549"
+       width="199.59051"
+       height="234.9789"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-size:133.472px;font-family:'3270 Condensed';-inkscape-font-specification:'3270 Condensed, Normal';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#4d94e4;fill-opacity:1" />
+    <ellipse
+       style="fill:#4de469;fill-opacity:1;stroke-width:0.853545;stroke-dasharray:none"
+       id="path6"
+       cx="104.30579"
+       cy="149.43631"
+       rx="81.085121"
+       ry="80.523323" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.2438px;font-family:'Iosevka Fixed SS12';-inkscape-font-specification:'Iosevka Fixed SS12 Bold Italic';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.429556;stroke-dasharray:none"
+       x="103.5914"
+       y="126.3466"
+       id="text7"
+       transform="scale(1.0174844,0.98281606)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Iosevka Fixed SS12';-inkscape-font-specification:'Iosevka Fixed SS12 Bold Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.429557"
+         x="103.5914"
+         y="126.3466">NS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Iosevka Fixed SS12';-inkscape-font-specification:'Iosevka Fixed SS12 Bold Italic';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="80.897858"
+       y="285.01514"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.265"
+         x="80.897858"
+         y="285.01514">ssss</tspan></text>
+    <ellipse
+       style="fill:#a0a0a0;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8"
+       cx="103.74401"
+       cy="247.74968"
+       rx="56.17907"
+       ry="16.666456" />
+  </g>
+</svg>
