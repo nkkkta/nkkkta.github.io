@@ -84,8 +84,8 @@ li{
 footer{
     margin-block-start: 4em;
     margin-block-end: -50px;
-    margin-inline-start: -50px;
-    margin-inline-end: -50px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
     border: 2px solid;
     font-size: 0.75rem;
 }
