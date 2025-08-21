@@ -1,15 +1,30 @@
-/* @import url('/colors.css'); */
+@import url('colors.css');
 
 html{
     color-scheme: light;
-    accent-color: red;
+    --primary-color: var(--cold-sea-200);
+    --secondary-color: var(--cold-sea-300);
+    --accent-color: var(--accent-color);
+    --text-dark: var(--neutral-800);
+    --text-lighter: var(--neutral-100);
+    --text-light: var(--neutral-100);
+    --background-light: var(--neutral-200);
+    --background-dark: var(--neutral-600);
+    accent-color: var(--accent-color);
+
 }
 
 body{
     font-family: "Press Start 2P", system-ui;
     font-weight: 400;
     font-style: normal;
-    font-size: 1rem;
+    font-size: 1.rem;
+    /* background-color: var(--primary-color); */
+    /* background: linear-gradient(var(--gradient-1), var(--gradient-2)); */
+    background: linear-gradient(var(--gradient-2), var(--gradient-1));
+
+    margin: 0;
+    color: var(--text-dark);
 }
 
 li{
@@ -17,13 +32,21 @@ li{
 }
 
 .main-header{
-    border: .1em solid;
+    padding: .5em;
     text-align: center;
+    /* border-radius: 1em; */
+    /* background-color: var(--secondary-color); */
+    /* background: linear-gradient(var(--primary-color), var(--gradient-2)); */
+    color: var(--text-dark);
+}
+
+.main-header p{
+    color: var(--text-gray);
 }
 
 .nav-bar ul{
     display: flex;
-    list-style: none;
+    list-style: "/";
     justify-content: space-evenly;
 }
 
@@ -32,6 +55,10 @@ li{
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-auto-rows: minmax(200px, auto);
     gap: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    /* background-color: var(--primary-color); */
 }
 
 
@@ -50,24 +77,35 @@ li{
 }
 
 .contact-main section article{
-    border: 2px solid;
-    padding: 20px;
+    /* border: 2px solid ; */
+    padding: 60px;
+    /* background: linear-gradient(var(--primary-color), var(--secondary-color)); */
+    /* border-radius: 1em; */
 }
 
 .home-main section{
-    border: 2px solid;
-    padding: 10px;
+    /* border: 2px solid; */
+    padding: 10px 10px 10px 30px;
+    /* background-color: var(--card-color); */
+    /* border-radius: 1em; */
+    /* margin: 0 5px 0 5px; */
+    background: linear-gradient(var(--primary-color), var(--secondary-color));
+
 }
 
 
 .project-main section article{
-    border: 2px solid;
+    /* border: 2px solid; */
+    background: linear-gradient(var(--primary-color), var(--secondary-color));
     padding: 20px;
+    /* border-radius:1em; */
 }
 
 .article-main section article{
-    border: 2px solid;
+    /* border: 2px solid; */
     padding: 20px;
+    background: linear-gradient(var(--primary-color), var(--secondary-color));
+    /* border-radius: 1em; */
 }
 
 .card-component{
@@ -83,22 +121,20 @@ li{
     flex: 1;
 }
 
-
-
-
 footer{
-    margin-block-start: 4em;
-    margin-block-end: -50px;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    border: 2px solid;
     font-size: 0.75rem;
+    margin-top: 10em;
+    /* margin-bottom: 5em; */
+    background: linear-gradient(var(--primary-color), var(--secondary-color));
+    padding-bottom: 1em;
+
 }
 
 footer nav{
     display: flex;
     flex-wrap: flow-wrap;
     padding: 0 40px 0;
+    color: var(--font-color);
 }
 
 footer nav ul{
@@ -108,6 +144,11 @@ footer nav ul{
 a{
     text-decoration: none;
     font-style: italic;
+    color: var(--text-dark);
+}
+
+a:hover{
+    color: var(--accent-color);
 }
 
 article ul li{
@@ -120,7 +161,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     max-inline-size: 75%;
-    border: 5px solid;
+    /* border: 5px solid; */
 }
 
 input,textarea{
@@ -129,10 +170,12 @@ input,textarea{
     font-style: normal;
     border: none;
     margin: 5px;
+    border-radius: .5em;
 }
 
 .submit-btn{
     padding: 1em;
+    border-radius: 1em;
 }
 
 @media(pointer: coarse){
@@ -181,14 +224,20 @@ input,textarea{
     }
 }
 
-@media (prefers-color-scheme: dark){
+/* @media (prefers-color-scheme: dark){
     html{
         color-scheme: dark;
     }
     
     body{
-        background-color: #1d1f21;
-        color: aliceblue;
+        background-color: var(--b-700);
+        color: var(--b-100);
+        
+    }
+
+    .main-header{
+        background-color: var(--g-700);
+        border-color: var(--g-700);
     }
 
     img{
@@ -198,10 +247,10 @@ input,textarea{
 
 @media (prefers-color-scheme: light){
     body{
-        background-color: aliceblue;
-        color: #1d1f21;
+        background-color: var(--b-100);
+        color: var(--b-500);
     }
-}
+} */
 
 
 

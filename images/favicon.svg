@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="favicon.svg"
+   sodipodi:docname="logo-arrow-function-black.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,70 +22,33 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.70644641"
-     inkscape:cx="396.34995"
-     inkscape:cy="561.25984"
+     inkscape:document-units="px"
+     inkscape:zoom="3.1333333"
+     inkscape:cx="60.000001"
+     inkscape:cy="59.680852"
      inkscape:window-width="1914"
-     inkscape:window-height="1022"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs1">
-    <rect
-       x="232.14783"
-       y="397.76549"
-       width="199.59051"
-       height="234.9789"
-       id="rect3" />
-  </defs>
+     id="defs1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <text
        xml:space="preserve"
-       transform="scale(0.26458333)"
-       id="text3"
-       style="font-size:133.472px;font-family:'3270 Condensed';-inkscape-font-specification:'3270 Condensed, Normal';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#4d94e4;fill-opacity:1" />
-    <ellipse
-       style="fill:#4de469;fill-opacity:1;stroke-width:0.853545;stroke-dasharray:none"
-       id="path6"
-       cx="104.30579"
-       cy="149.43631"
-       rx="81.085121"
-       ry="80.523323" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.2438px;font-family:'Iosevka Fixed SS12';-inkscape-font-specification:'Iosevka Fixed SS12 Bold Italic';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.429556;stroke-dasharray:none"
-       x="103.5914"
-       y="126.3466"
-       id="text7"
-       transform="scale(1.0174844,0.98281606)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.7826px;font-family:'BigBlue TerminalPlus';-inkscape-font-specification:'BigBlue TerminalPlus';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#0f7fff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.26301"
+       x="72.400482"
+       y="69.906158"
+       id="text1"
+       transform="scale(0.84932817,1.1774012)"><tspan
          sodipodi:role="line"
-         id="tspan7"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Iosevka Fixed SS12';-inkscape-font-specification:'Iosevka Fixed SS12 Bold Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.429557"
-         x="103.5914"
-         y="126.3466">NS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Iosevka Fixed SS12';-inkscape-font-specification:'Iosevka Fixed SS12 Bold Italic';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
-       x="80.897858"
-       y="285.01514"
-       id="text8"><tspan
-         sodipodi:role="line"
-         id="tspan8"
-         style="stroke-width:0.265"
-         x="80.897858"
-         y="285.01514">ssss</tspan></text>
-    <ellipse
-       style="fill:#a0a0a0;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
-       id="path8"
-       cx="103.74401"
-       cy="247.74968"
-       rx="56.17907"
-       ry="16.666456" />
+         id="tspan1"
+         x="72.400482"
+         y="69.906158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'BigBlue TerminalPlus';-inkscape-font-specification:'BigBlue TerminalPlus';fill:#0f7fff;fill-opacity:1;fill-rule:nonzero;stroke-width:3.26301">()=&gt;</tspan></text>
   </g>
 </svg>
