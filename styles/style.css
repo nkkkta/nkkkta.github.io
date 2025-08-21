@@ -1,4 +1,4 @@
-@import url('/colors.css');
+/* @import url('/colors.css'); */
 
 html{
     color-scheme: light;
@@ -17,7 +17,7 @@ li{
 }
 
 .main-header{
-    border: 2px solid;
+    border: .1em solid;
     text-align: center;
 }
 
@@ -137,12 +137,22 @@ input,textarea{
 
 @media(pointer: coarse){
     .submit-btn{
-        padding: 2em;
+        padding: 1em;
+        text-align: center;
     }
 
-    .nav-bar ul{
-        gap: 10px;
+    input, textarea{
+        height: 4em;
     }
+
+    .nav-bar ul li{
+        padding: .5em;
+    }
+
+    .nav-bar ul li a{
+        padding: .9em;
+    }
+
 }
 
 
