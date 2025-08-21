@@ -139,6 +139,10 @@ input,textarea{
     .submit-btn{
         padding: 2em;
     }
+
+    .nav-bar ul{
+        gap: 10px;
+    }
 }
 
 
