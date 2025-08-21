@@ -38,6 +38,12 @@
     --gradient-1: #9bafd977;
     --gradient-2: #10378377;
 
+    --gradient-primary: linear-gradient(#9bafd977, #10378377);
+    --gradient-primary-inv: linear-gradient(#10378377,#9bafd977);
+
+    --gradient-secondary: linear-gradient(var(--primary-color), var(--secondary-color))
+
+
 
 
 }
